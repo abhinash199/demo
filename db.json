@@ -1,8 +1,14 @@
 {
   "posts": [
-    { "id": 1, 
+    { 
+        "id": 1, 
     "title": "earn json-server", 
-    "author": "Mrinmay Mukherjee" }
+    "author": "Mrinmay Mukherjee" },
+    {
+        "id": 2, 
+        "title": "Abhinash Sharma", 
+        "author": "Mrinmay Mukherjee"
+    }
   ],
   "comments": [{ "id": 1, "body": "it's pretty awesome", "postId": 1 }],
   "profile": { "name": "Mrinmay Mukherjee" }
