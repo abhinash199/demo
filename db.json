@@ -3,10 +3,12 @@
     { 
         "id": 1, 
     "title": "earn json-server", 
+    "content":"dummy content",
     "author": "Mrinmay Mukherjee" },
     {
         "id": 2, 
         "title": "Abhinash Sharma", 
+        "content":"dummy content",
         "author": "Mrinmay Mukherjee"
     }
   ],
